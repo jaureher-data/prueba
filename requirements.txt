@@ -1,1 +1,8 @@
-streamlit
+streamlit[auth]
+pandas
+numpy
+plotly
+python-dateutil
+google-auth
+google-api-python-client
+streamlit-aggrid
